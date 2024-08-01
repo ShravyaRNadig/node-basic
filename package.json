@@ -2,11 +2,11 @@
   "name": "basic",
   "version": "1.0.0",
   "description": "Learning node.js",
-  "main": "sync.js",
+  "main": "func_approch.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node sync.js",
-    "dev1": "nodemon sync.js"
+    "dev": "node func_approch.js",
+    "dev1": "nodemon func_approch.js"
   },
   "repository": {
     "type": "git",
